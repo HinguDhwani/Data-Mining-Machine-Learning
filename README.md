@@ -1,1 +1,4 @@
 # Data Mining & Machine Learning
+
+Workforce analytics falls under the broad umbrella of HR Analytics. Employees quit for a number of reasons, including salary dissatisfaction,
+stagnant career growth, and so on. A great loss in company can be not only in terms of money but also in terms of losing their skilled workers. If the company identifies whether which employee should get promotion, to predict how much salary an employee should get and also to predict whether an employee will leave the company or no in near future, then the company can work on employee retention in advance so that they can save their valuable and hardworking employees. This prediction of employee’s attrition and retention can be done through machine learning techniques. Every modern organization collects massive number of employee’s data, we will use this data, analyse this data, extract insights from this data, so that company can take better decisions to handle their workforce.
